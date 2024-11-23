@@ -1,0 +1,27 @@
+    body{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 60px;
+    
+    }   
+    #numberInput{
+        width: 300px;
+  justify-content: center;
+  align-items: center;
+    }
+    .error{
+        color: red;
+    }
+    
+    .calculator {
+         margin: 50px auto; max-width: 300px; 
+        }
+        .form-control { text-align: right;
+        } 
+           header{
+            width: 100%;
+           }
+      
+       
